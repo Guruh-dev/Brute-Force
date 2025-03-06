@@ -19,4 +19,4 @@ This is a simple brute force password cracker tool for educational purposes. It 
 
 4. Run the brute force tool:
 ## Example ##
-python brute_force.py passwords.txt targets.txt --delay 0.5
+python Brute-Force.py passwords.txt targets.txt --delay 0.5
