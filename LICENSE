@@ -1,11 +1,7 @@
 ### 1. `LICENSE`
 
-Add a `LICENSE` file to specify the terms under which the tool can be used. Here is an example of a simple MIT License:
-
-```plaintext
 MIT License
-
-Copyright (c) 2025 killsecstasy
+Copyright (C) 2025 killsecstasy
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
