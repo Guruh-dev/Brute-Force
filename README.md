@@ -10,7 +10,7 @@ This is a simple brute force password cracker tool for educational purposes. It 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Killsecstasy/Brute-Force.git
+   git clone https://github.com/Guruh-dev/Brute-Force.git
    cd Brute-Force
 
 2. Create a file named passwords.txt in the project directory and add a list of passwords to try.
